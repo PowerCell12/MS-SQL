@@ -1,0 +1,1 @@
+select FirstName, LastName, JobTitle from employees where salary BETWEEN 20000 and 30000;
